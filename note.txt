@@ -1,3 +1,4 @@
 git init
 git status
-git add . --> ყველა ფაილის ატვირთვა
+git add .   --> ყველა ფაილის ატვირთვა
+git commit
